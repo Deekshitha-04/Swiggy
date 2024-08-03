@@ -1,0 +1,97 @@
+.header {
+  background-color: #a1adba;
+  border: 2px solid #000;
+  align-items: center;
+  gap: 150px;
+  padding: 10px;
+  display: flex;
+}
+
+.logo {
+  width: 150px;
+  height: 150px;
+}
+
+.nav-items {
+  margin-left: auto;
+  font-size: 24px;
+}
+
+li {
+  margin: 20px;
+  padding: 20px;
+}
+
+.nav {
+  justify-content: space-between;
+  gap: 80px;
+  list-style: none;
+  display: flex;
+}
+
+.search {
+  cursor: pointer;
+  padding: 10px;
+}
+
+.cards {
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.res-cards {
+  width: 200px;
+  height: auto;
+  margin: 5px;
+  padding: 5px;
+}
+
+.res-cards:hover {
+  cursor: pointer;
+  border: 1.5px solid #000;
+}
+
+.logo1 {
+  width: 100%;
+}
+
+.shimmer-container {
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.shimmer-card {
+  background-color: #eae6e6;
+  width: 200px;
+  height: 400px;
+  margin: 30px 10px 10px;
+}
+
+.login {
+  cursor: pointer;
+  padding: 0 20px;
+}
+
+.filter {
+  display: flex;
+}
+
+.user-card {
+  border: 1.2px solid #000;
+  padding: 10px;
+}
+
+.drop {
+  background: radial-gradient(343px at 46.3% 47.5%, #f2f2f2 0%, #f1f1f1 72.9%);
+  width: 50%;
+  margin: 13px auto 4px;
+  padding: 4px;
+  font-size: larger;
+  box-shadow: 0 4px 4px #d3d3d3;
+}
+
+.data {
+  justify-content: space-between;
+  display: flex;
+}
+/*# sourceMappingURL=h1.0cccb4eb.css.map */

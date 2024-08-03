@@ -1,0 +1,99 @@
+/* 
+.header {
+  background-color: #a1adba;
+  display: flex;
+  border: 2px solid black;
+  gap: 150px;
+  align-items: center;
+  padding: 10px;
+}  
+
+ .logo {
+  width: 150px;
+  height: 150px;
+} 
+
+ .nav-items {
+  
+  font-size: 24px;
+  margin-left: auto;  
+}
+
+li {
+  margin: 20px;
+  padding: 20px;
+}
+
+.nav {
+  display: flex;
+  gap: 80px;
+  justify-content: space-between;
+  list-style: none;
+}
+
+.search{
+  padding: auto;
+  cursor: pointer;
+  padding: 10px;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.res-cards {
+  margin: 5px;
+  padding: 5px;
+  height: auto;
+  width: 200px;
+}
+
+.res-cards:hover {
+  border: 1.5px solid black;
+  cursor: pointer;
+}
+
+.logo1 {
+  width: 100%;
+}
+.shimmer-container{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.shimmer-card{
+  margin: 10px;
+  width: 200px;
+  height:400px;
+  margin-top: 30px;
+  background-color: rgb(234, 230, 230);
+  }
+.login{
+    cursor: pointer;
+    padding: 0 20px;
+}
+.filter{
+  display: flex;
+  
+} 
+.user-card{
+  padding: 10px;
+  border: 1.2px solid black;
+}
+.drop {
+  background: radial-gradient(343px at 46.3% 47.5%, rgb(242, 242, 242) 0%, rgb(241, 241, 241) 72.9%);
+  box-shadow: 0 4px 4px lightgray; 
+  padding: 4px;
+  width: 50%;
+  margin: 0 auto; 
+  margin-top: 13px;
+  margin-bottom: 4px;
+  font-size: larger; 
+ } 
+
+.data {
+  display: flex;
+  justify-content: space-between;
+}
+ */
